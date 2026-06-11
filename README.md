@@ -50,13 +50,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Carapicu�
 
 - **LinkedIn:** https://www.linkedin.com/in/matheus-leal-martins
 - **Email:** lealm02@gmail.com
-
+- **GitHub:** https://github.com/Mleal11
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)](https://github.com/Mleal11)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mleal11&show_icons=true&theme=dark)](https://github.com/Mleal11)
 
 ---
 
