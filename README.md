@@ -6,25 +6,29 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Carapicu�
 
 ---
 
-## 💻 Tecnologias & Habilidades
+## 💻 Tecnologias & Ferramentas
 
-**Linguagens:**
-- Java (OOP, estrutura de dados)
-- SQL (consultas, modelagem de banco de dados)
-- HTML5 & CSS3
-- JavaScript (básico)
+<div align="center">
 
-**Ferramentas & Plataformas:**
-- Git & GitHub
-- Microsoft Office (Word, Excel, PowerPoint)
-- Power BI (visualização de dados)
-- Windows & Linux (básico)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
 
 **Conhecimentos Técnicos:**
 - Suporte técnico (hardware, software, redes)
 - CFTV e câmeras IP
 - Sistemas de segurança
 - Cabeamento estruturado
+- Bancos de dados relacionais
+- Orientação a Objetos (OOP)
 
 ---
 
@@ -48,9 +52,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Carapicu�
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn:** https://www.linkedin.com/in/matheus-leal-martins
-- **Email:** lealm02@gmail.com
-- **GitHub:** https://github.com/Mleal11
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leal-martins)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealm02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mleal11)
+
+</div>
 
 ---
 
