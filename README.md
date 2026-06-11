@@ -56,7 +56,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Carapicu�
 
 ## 📈 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)](https://github.com/seu_usuario)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)](https://github.com/Mleal11)
 
 ---
 
